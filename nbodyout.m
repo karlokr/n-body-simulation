@@ -1,5 +1,5 @@
 function nbodyout(fname, t, r, m, rgb)%
-% nbodyout Output N-body data in xfpp3d format [PHYS210-nbody]
+% nbodyout Output N-body data in xfpp3d format
 %
 % nbodyout writes the values computed by a typical N-body code to the file 
 % fname in the format required by xfpp3d.
