@@ -192,4 +192,3 @@ function nbodyout(fname, t, r, m, rgb)%
    % Close file and return ...
    fclose(fid);
 end
-
